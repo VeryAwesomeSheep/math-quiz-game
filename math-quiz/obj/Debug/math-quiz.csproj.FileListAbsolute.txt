@@ -1,0 +1,10 @@
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\bin\Debug\math-quiz.exe.config
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\bin\Debug\math-quiz.exe
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\bin\Debug\math-quiz.pdb
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math-quiz.csprojAssemblyReference.cache
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math_quiz.Form1.resources
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math_quiz.Properties.Resources.resources
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math-quiz.csproj.GenerateResource.cache
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math-quiz.csproj.CoreCompileInputs.cache
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math-quiz.exe
+C:\Users\verya\source\repos\CS\math-quiz\math-quiz\obj\Debug\math-quiz.pdb
